@@ -1,7 +1,7 @@
 # 42-ft_printf
 ## My own implementation of the C printf function
 
-ft_printf is the first project of algorithm branch in the study program at School 42 (UNIT Factory).
+ft_printf is the first project of algorithm branch in the study program at School 42 (UNIT Factory). <br>
 The main goal is to recode printf C function. 
 
 All functions are created in accordance with Norm - the bunch of rules how code should be formatted.
